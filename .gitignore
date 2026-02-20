@@ -6,6 +6,7 @@
 
 # Keep project entry point.
 !README.md
+!LICENSE
 
 # Keep exported figures / screenshots.
 !assets/
