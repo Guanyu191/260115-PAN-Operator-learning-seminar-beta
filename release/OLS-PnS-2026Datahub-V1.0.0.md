@@ -5,11 +5,11 @@
 - 参考资料：[AI in Science and Engineering (AISE25)](https://camlab-ethz.github.io/ai4s-course/fall2025/schedule/).
 - 课程官网有录播、讲义、相关论文，以及编程相关的练习题、答案，非常完备.
 
-这份整理把 operator learning 主线整理成 9 个 Problem。每个 Problem 大约 30 min 内可以做完. 且每个 Problem 被拆成一组子问题，引导初学者思考、回答问题，从而对算子学习有更深的认识.
+这份文档把 operator learning 主线整理成 9 个 Problem. 每个 Problem 大约 30 min 内可以做完. 且每个 Problem 被拆成一组子问题，引导初学者思考、回答问题，从而对算子学习有更深的认识.
 
 ## 学习方式
 
-建议把这份 Problem & Solution 当成讲义，先过一遍 Problem，对大概内容有一个认识，然后进入 Solution，一边翻 slides、一边理解这里答案. 对理解每个 Problem & Solution，建议用时 20 min，然后休息一会再进一步思考.
+建议把这份 Problem & Solution 当成讲义，先过一遍 Problem，对大概内容有一个认识，然后进入 Solution，一边翻 slides、一边理解这里答案. 对理解每个 Problem & Solution，建议用时 20 min，然后休息一会再进一步思考，根据个人情况推进.
 
 ## Problem
 

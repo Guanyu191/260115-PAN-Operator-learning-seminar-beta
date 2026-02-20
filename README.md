@@ -7,14 +7,14 @@
 
 这份文档把 operator learning 主线整理成 9 个 Problem. 每个 Problem 大约 30 min 内可以做完. 且每个 Problem 被拆成一组子问题，引导初学者思考、回答问题，从而对算子学习有更深的认识.
 
-- 完整的 Problem & Solution 文档见 [release](./release) 目录，最新版是 [V1.0.0](release/「Operator Learning Seminar」Problem & Solution (2026 Datahub, V1.0.0).pdf)
+- 完整的 Problem & Solution 文档见 [release](./release) 目录，最新版是 [V1.0.0](release/OLS-PnS-2026Datahub-V1.0.0.pdf)
 - 拆分的 Problem & Solution 文档见 [note](./note) 目录.
 
 > **Note:** 建议直接阅读完整的 PDF 文档. 或者下载整个项目，然后用 Typora 打开 Markdown 文件.
 
 ## 学习方式
 
-建议把这份 Problem & Solution 当成讲义，先过一遍 Problem，对大概内容有一个认识，然后进入 Solution，一边翻 slides、一边理解这里答案. 对理解每个 Problem & Solution，建议用时 20 min，然后休息一会再进一步思考.
+建议把这份 Problem & Solution 当成讲义，先过一遍 Problem，对大概内容有一个认识，然后进入 Solution，一边翻 slides、一边理解这里答案. 对理解每个 Problem & Solution，建议用时 20 min，然后休息一会再进一步思考，根据个人情况推进.
 
 ## 项目结构
 
