@@ -16,6 +16,9 @@
 !release/**
 
 # Keep notes (solutions live here).
+!note/
+!note/**
+
 !学习进度/
 学习进度/*
 !学习进度/note/
