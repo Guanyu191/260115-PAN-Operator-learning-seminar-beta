@@ -22,6 +22,6 @@
 .
 ├─ README.md  # 项目概览.
 ├─ note/      # 9 个 Problem 对应的 Solution (1-9).
-├─ assets/    # note/ 与 release 文档引用的截图与插图.
+├─ assets/    # note/ 与 release 文档引用的图片.
 └─ release/   # 对外发布的整合版讲义 (md + pdf).
 ```
